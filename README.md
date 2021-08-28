@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SurelyNotChase
 - 👀 I’m interested in Full-Stack media development.
-- 🌱 I’m currently learning Xamarin, Flutter, and Functional Programming in Javascript
+- 🌱 I’m currently learning Xamarin, Flutter, and Functional Programming in JavaScript
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: chase.lear@outlook.com
 
