@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SurelyNotChase
-- 👀 I’m interested in Full-Stack media development.
+- 👀 I’m interested in Full-Stack intractive media development.
 - 🌱 I’m currently exploring Three.js and Functional Programming in JavaScript
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: chase.lear@outlook.com
